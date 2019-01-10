@@ -5,6 +5,6 @@ Features
 - Another Cool Thing
 
 Technology
-- Mongo
+- Mongo with Mongoose
 - React
 - Node
