@@ -5,6 +5,6 @@ Features
 - Another Cool Thing
 
 Technology
-- Mongo
+- MySQL
 - React
 - Node
